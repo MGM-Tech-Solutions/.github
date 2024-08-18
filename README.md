@@ -1,0 +1,2 @@
+# .github
+MGM Tech Solutions
